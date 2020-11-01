@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color:coral,lawngreen;
+}
+#img{
+    border-radius: 35%;
+    width: 220px;
+    height: 220px;
+}
